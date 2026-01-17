@@ -21,9 +21,9 @@
 
 ## 1) Berechnung theoretische Resonanzfrequenz f₀ :
 
-### Omega-Berechnung :  
+### Omega-Berechnung : 
 
-![Berechnung von ω₀](task1/omega_berechnung.png)
+![Berechnung von ω₀](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task1/omega_berechnung.png)
 
 ### Resonanzfrequenz-Berechnung : 
 
