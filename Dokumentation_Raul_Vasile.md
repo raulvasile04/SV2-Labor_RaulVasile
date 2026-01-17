@@ -27,11 +27,11 @@
 
 ### Resonanzfrequenz-Berechnung : 
 
-![Berechnung von f₀](task1/resonanzfrequenz_berechnung.png)
+![Berechnung von f₀](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task1/resonanzfrequenz_berechnung.png)
 
 ## 2) Simulation :
 
-![Simulation für Task 1](task1/simulation_task1.gif)
+![Simulation für Task 1](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task1/simulation_task1.gif)
 
 ## 3) Gemessene Frequenz in Simulator :
 
@@ -51,7 +51,7 @@
 
 ## 1) , 2) & 3) Simulation : 
 
-![Simulation für Task 2](task2/simulation_task2.gif)
+![Simulation für Task 2](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task2/simulation_task2.gif)
 
 ## 4 ) Erklären Sie den Zusammenhang , den Sie beobachten : 
       
@@ -78,15 +78,15 @@
  
 ### Bandpass : 
 
-  ![Simulation Bandpass](task3/bandpass.gif)
+  ![Simulation Bandpass](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task3/bandpass.gif)
 
 ### Bandsperre : 
 
-  ![Simulation Bandsperre](task3/bandsperre.gif)
+  ![Simulation Bandsperre](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task3/bandsperre.gif)
 
 ## 2 ) Resonanzfrequenz berechnung :
 
-![Berechnung von f₀](task3/resonanzfrequenz_berechnung.png)
+![Berechnung von f₀](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task3/resonanzfrequenz_berechnung.png)
 
 ## 5 ) Beantworten Sie die folgenden Fragen : 
      
@@ -114,7 +114,7 @@
 
 ## 1  & 4  ) GIF Dokumentaion der R-2R-Netzwerks :
 
-  ![Simulation für Task 4](task4/task4.gif)
+  ![Simulation für Task 4](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task4/task4.gif)
 
 ## 2  & 3  ) Tabelle der gemessenen Ausgangsspannungen für jede Bit-Kombination :
 
@@ -176,11 +176,11 @@
 
 ## 1 ) Berechnen Sie die theoretische Resonanzfrequenz f₀ für den LC-Bandpass :
 
-  ![Resonanzfrequenz von f₀](task5/resonanzfrequenz_berechnung.png)
+  ![Resonanzfrequenz von f₀](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task5/resonanzfrequenz_berechnung.png)
 
 ## 2 , 3 & 4 ) GIF Simulation der Rechtek-zu-Sinus-Wandler : 
 
-  ![Simulation Task 5](task5/task5.gif)
+  ![Simulation Task 5](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task5/task5.gif)
 
 ## 5 ) Erklärung :
 
@@ -208,7 +208,7 @@
 
 ### Führen Sie eine AC-Analyze am Ausgang (V) durch : 
 
-![Rezonanzbestimmung ](task6/rezonanz_sinus.gif)
+![Rezonanzbestimmung ](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task6/rezonanz_sinus.gif)
 
 ### Finden Sie die Frequenz , bei der die Schaltung ihre stärkste Resonanz zeigt : 
 
@@ -219,7 +219,7 @@
 
 ### Grundfrequenz der Rechteckquelle : 3.56 MHz
 
-![Rechteckwellen](task6/squarewave_1.18MHz.gif)
+![Rechteckwellen](https://raw.githubusercontent.com/raulvasile04/SV2-Labor_RaulVasile/main/task6/squarewave_1.18MHz.gif)
 
 ## Beantworten Sie die folgenden Fragen basierend auf Ihren Beobachtung aus Schritt 2 : 
 
